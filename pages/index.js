@@ -52,6 +52,9 @@ export default function Home() {
           <input type="submit" value="Generate names" />
         </form>
         <div className={styles.result}>{result}</div>
+        <footer>
+          <p>{"DM"}</p>
+        </footer>
       </main>
     </div>
   );
