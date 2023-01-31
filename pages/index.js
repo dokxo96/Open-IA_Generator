@@ -54,6 +54,7 @@ export default function Home() {
         <div className={styles.result}>{result}</div>
         <footer>
           <p>{"DM"}</p>
+          <p>{"DOKXO"}</p>
         </footer>
       </main>
     </div>
